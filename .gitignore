@@ -1,3 +1,5 @@
 *.iml
 *.xml
 setup.py
+login.p
+*.pyc
