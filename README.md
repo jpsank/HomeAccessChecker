@@ -12,7 +12,7 @@ You will need [requests](http://docs.python-requests.org/en/master/), [Beautiful
 # Usage
 To run, type
 
-    python userinterface.py
+    python main.py
 
 And it will ask you for your school district, username, and password. Once you enter these, they will be saved, so you don't have to enter them again!
 
